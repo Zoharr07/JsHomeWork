@@ -7,3 +7,4 @@ List member Responsitory:
 - Nguyễn Đăng Hải :     https://github.com/harius2617/NguyenDangHai
 - Trần Đức Nhơn :       https://github.com/nhontd93/Tran_Duc_Nhon
 - Trần Hữu Lộc :        https://github.com/thloc2738/Huuloc
+- Hoàng Minh Tiến :      https://github.com/hmtien310797/HoangMinhTiens
